@@ -1,0 +1,33 @@
+body{
+    background : #E2E8DD;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_div{
+    background-color: rgb(236, 216, 189);
+    color:black;
+}
+
+.header_div p{
+    color:gray;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 2px;
+}
+
+.header_div button{
+    background-color:aqua;
+    color: darkred;
+    margin-top: 40px;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.footer{
+    text-shadow: 2px 5px 3px gray;
+    font-size: 12px;
+    position: fixed;
+    bottom: 0;
+    font-weight: bold;
+    text-align:center;
+    width: 100%;
+}
